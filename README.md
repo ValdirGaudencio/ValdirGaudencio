@@ -18,3 +18,6 @@ Eu sou <strong>Valdir Gaudencio, tenho 15 anos</strong>, <strong>Faça uma breve
     <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
 
 </div>
+**Contador De Visitas**
+
+![VisitorCount](https://profile-counter.glitch.me/{ValdirGaudencio}/count.svg)
