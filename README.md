@@ -1,6 +1,6 @@
 # [ValdirGaudencio]
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMkl_6GlUt00FzNoEoyMz39_GX4lGtpvml8vmGaWeXqQ&s" width="px">
-Eu sou <strong>Valdir Gaudencio, tenho 15 anos</strong>, <strong></strong> 👨🏻‍💻 
+Eu sou <strong>Valdir Gaudencio, tenho 17 anos</strong>, <strong></strong> 👨🏻‍💻 
 
 - 🚀 Atualmente estou aprendendo: <strong>Java Script e HTML</strong> 
 - 💬 Pergunte-me sobre: <strong>Time de futebol ( Santa Cruz ), atletismo</strong>
